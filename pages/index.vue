@@ -24,9 +24,9 @@
           </div>
         </b-col>
         <b-col xl="5" class="position-relative w-75 d-xl-block d-none mt-2">
-          <img class="drinks" style="position: absolute; top: 0; right: 0" src="/images/margarita.jpeg" alt="">
-          <img class="drinks" style="position: absolute; top: 20%; right: 20%;" src="/images/bramble.jpeg" alt="">
-          <img class="drinks" style="position: absolute; right: 40%; top: 40%" src="/images/negroni.jpeg" alt="">
+          <img class="drinks" style="position: absolute; top: 0; right: 0" src="https://www.thecocktaildb.com/images/media/drink/5noda61589575158.jpg" alt="">
+          <img class="drinks" style="position: absolute; top: 20%; right: 20%;" src="https://www.thecocktaildb.com/images/media/drink/stwiva1619704025.jpg" alt="">
+          <img class="drinks" style="position: absolute; right: 40%; top: 40%" src="https://www.thecocktaildb.com/images/media/drink/qgdu971561574065.jpg" alt="">
         </b-col>
       </b-row>
     </b-container>
