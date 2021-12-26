@@ -8,7 +8,7 @@
         <b-navbar-brand class="d-none d-lg-block" href="/TheMixologistV2/">The Mixologist V2</b-navbar-brand>
         <b-navbar-nav>
           <b-nav-item @click="getRandomDrink" href="#">Surprise Me</b-nav-item>
-          <b-nav-item href="#">Github Link</b-nav-item>
+          <b-nav-item href="https://github.com/AlanSerin/TheMixologistV2">Github Link</b-nav-item>
         </b-navbar-nav>
       </b-collapse>
       <!-- Right aligned nav items -->

@@ -20,7 +20,7 @@
           <div class="page-text w-75 mx-auto mx-md-0">Become a bartender one recipe at a time. Every alcoholic and non-alcoholic cocktail and drink known to humankind brought to you by The Mixologist(V2) and TheCocktailDB</div>
           <div class="d-flex justify-content-between justify-content-md-start">
             <b-button block @click="$router.push('/search')" class="start-button mr-3" size="lg">Get Started</b-button>
-            <b-button block class="github-link mt-0" size="lg">Github Link</b-button>
+            <b-button href="https://github.com/AlanSerin/TheMixologistV2" block class="github-link mt-0" size="lg">Github Link</b-button>
           </div>
         </b-col>
         <b-col xl="5" class="position-relative w-75 d-xl-block d-none mt-2">
@@ -149,6 +149,7 @@ export default {
 }
 .page-title {
   font-size: 5rem;
+  max-width: 850px;
 }
 .page-text {
   font-size: 1.25rem;
