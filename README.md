@@ -1,69 +1,16 @@
-# TheMixologistV2
+# The MixologistV2
 
-## Build Setup
+The MixologistV2 is a cocktail recipe app made with Vue.js that I developed to help users make delicious drinks at home. The app features a wide variety of cocktail recipes with detailed instructions and video demonstrations, making it easy for users to follow along and make the perfect drink. The app allows users to search for recipes by ingredients, type, or name. 
 
-```bash
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
-
-## Special Directories
-
-You can create the following extra directories, some of which have special behaviors. Only `pages` is required; you can delete them if you don't want to use their functionality.
-
-### `assets`
-
-The assets directory contains your uncompiled assets such as Stylus or Sass files, images, or fonts.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/assets).
-
-### `components`
-
-The components directory contains your Vue.js components. Components make up the different parts of your page and can be reused and imported into your pages, layouts and even other components.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/components).
-
-### `layouts`
-
-Layouts are a great help when you want to change the look and feel of your Nuxt app, whether you want to include a sidebar or have distinct layouts for mobile and desktop.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/layouts).
+This project was a great opportunity for me to apply my skills in front-end development, using technologies such as Vue.js, and to work on a project from start to finish. It was a challenging but exciting experience, and I am proud to have developed a functional and user-friendly app that helps users make delicious cocktails at home.
 
 
-### `pages`
+## Screenshots
 
-This directory contains your application views and routes. Nuxt will read all the `*.vue` files inside this directory and setup Vue Router automatically.
+<p float="left"> 
+<img src="https://user-images.githubusercontent.com/60022329/214682377-b2fef055-3f6e-4cc5-95c0-af24a9ef94ef.jpg" />
+&nbsp; &nbsp;
+<img src="https://user-images.githubusercontent.com/60022329/214682384-7d6de4b5-be28-458d-8cb6-d6d11bce9660.jpg" />
+&nbsp; &nbsp;
+<img src="https://user-images.githubusercontent.com/60022329/214682390-5991e601-e25b-42ff-9b3f-445b295ee739.jpg" />
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/get-started/routing).
-
-### `plugins`
-
-The plugins directory contains JavaScript plugins that you want to run before instantiating the root Vue.js Application. This is the place to add Vue plugins and to inject functions or constants. Every time you need to use `Vue.use()`, you should create a file in `plugins/` and add its path to plugins in `nuxt.config.js`.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/plugins).
-
-### `static`
-
-This directory contains your static files. Each file inside this directory is mapped to `/`.
-
-Example: `/static/robots.txt` is mapped as `/robots.txt`.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/static).
-
-### `store`
-
-This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
